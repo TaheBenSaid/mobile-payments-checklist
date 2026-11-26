@@ -1,5 +1,7 @@
 # mobile-payments-checklist
 
+_By [Tahe Ben Said](https://tahebensaid.dev), senior mobile engineer. More apps and tools at [tahebensaid.dev](https://tahebensaid.dev)._
+
 Five payment mistakes that pass every test and still cost real money. Each one ends with a customer charged twice, a customer charged with nothing to show for it, or you giving the product away. None of them are about the payment provider. They're about where the app ends and the server begins.
 
 It works the same on iOS, Android, Flutter and React Native, because the fix is almost always on the backend.
